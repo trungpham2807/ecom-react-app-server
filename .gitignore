@@ -1,4 +1,5 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# MONGO_URL = "mongodb://localhost:27017/E-full"
 
 # dependencies
 /node_modules
